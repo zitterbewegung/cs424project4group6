@@ -1,0 +1,3 @@
+[submodule "cs424p4"]
+	path = cs424p4
+	url = git@github.com:camillol/cs424p4.git
